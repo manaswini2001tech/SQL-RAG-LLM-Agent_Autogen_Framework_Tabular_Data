@@ -1,0 +1,13 @@
+[
+  {
+      "model": "meta-llama/llama-3.2-1b-instruct",
+      "api_key": "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",
+      "base_url": "https://openrouter.ai/api/v1",
+      "model_client_cls": "CustomModelClient",
+      "device": "cuda",
+      "n": 1,
+      "params": {
+          "max_length": 1000
+    }
+  }
+]
